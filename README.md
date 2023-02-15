@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**SAHASOFFICIAL/Blue-Dragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Blue-Dragon/Blue-Dragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
